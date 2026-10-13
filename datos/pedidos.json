@@ -1,0 +1,12 @@
+{
+ "CN-10482": {"cliente": "Laura Gómez", "productos": ["Urbana 5"], "importe": 589, "estado": "entregado", "fecha_pedido": "2026-09-14", "fecha_entrega": "2026-09-17", "destino": "Valladolid"},
+ "CN-10544": {"cliente": "Raúl Ortega", "productos": ["Alforjas Viaje 40"], "importe": 99, "estado": "entregado", "fecha_pedido": "2026-09-02", "fecha_entrega": "2026-09-04", "destino": "León"},
+ "CN-10871": {"cliente": "Lucía Ríos", "productos": ["Casco Ciudad", "Kit Luces Ciudad"], "importe": 74, "estado": "enviado", "fecha_pedido": "2026-10-06", "transportista": "Envíos Rápidos", "seguimiento": "ER-558201", "entrega_prevista": "2026-10-10", "destino": "Gijón"},
+ "CN-10990": {"cliente": "Sara Molina", "productos": ["Maillot Norte"], "importe": 55, "estado": "devolución en curso", "fecha_pedido": "2026-09-20", "fecha_entrega": "2026-09-23", "reembolso_previsto": "2026-10-14", "destino": "Santander"},
+ "CN-11020": {"cliente": "Marta Iglesias", "productos": ["Aero 3"], "importe": 1150, "estado": "entregado", "fecha_pedido": "2026-09-08", "fecha_entrega": "2026-09-11", "destino": "Oviedo"},
+ "CN-11033": {"cliente": "Óscar Vidal", "productos": ["E-Urbana 400", "Candado en U"], "importe": 1649, "estado": "en preparación", "fecha_pedido": "2026-10-08", "entrega_prevista": "2026-10-13", "destino": "Madrid"},
+ "CN-11107": {"cliente": "Carmen Díez", "productos": ["Infantil 16", "Casco Peque"], "importe": 214, "estado": "enviado", "fecha_pedido": "2026-10-05", "transportista": "Envíos Rápidos", "seguimiento": "ER-559034", "entrega_prevista": "2026-10-09", "destino": "Oviedo"},
+ "CN-11215": {"cliente": "Ana Prieto", "productos": ["Chaqueta Lluvia"], "importe": 89, "estado": "cancelado", "fecha_pedido": "2026-10-01", "motivo": "cancelado por el cliente", "reembolso": "realizado el 2026-10-03", "destino": "Bilbao"},
+ "CN-11302": {"cliente": "Javier Soto", "productos": ["Montaña 29"], "importe": 749, "estado": "retrasado", "fecha_pedido": "2026-09-29", "entrega_prevista": "2026-10-15", "motivo": "falta de existencias en la talla L", "destino": "Valencia"},
+ "CN-11340": {"cliente": "Elena Martín", "productos": ["Guantes Invierno"], "importe": 35, "estado": "enviado", "fecha_pedido": "2026-10-07", "transportista": "Correos Express", "seguimiento": "CE-77120", "entrega_prevista": "2026-10-14", "destino": "Santa Cruz de Tenerife"}
+}

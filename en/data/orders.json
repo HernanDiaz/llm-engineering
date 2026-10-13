@@ -1,0 +1,12 @@
+{
+ "NC-10482": {"customer": "Laura Green", "products": ["City 5"], "amount": 589, "status": "delivered", "order_date": "2026-09-14", "delivery_date": "2026-09-17", "destination": "Seattle"},
+ "NC-10544": {"customer": "Ralph Owens", "products": ["Touring Panniers 40"], "amount": 99, "status": "delivered", "order_date": "2026-09-02", "delivery_date": "2026-09-04", "destination": "Boise"},
+ "NC-10871": {"customer": "Lucy Rivers", "products": ["City Helmet", "City Light Kit"], "amount": 74, "status": "shipped", "order_date": "2026-10-06", "carrier": "SwiftShip", "tracking": "SS-558201", "expected_delivery": "2026-10-10", "destination": "Eugene"},
+ "NC-10990": {"customer": "Sarah Miller", "products": ["North Jersey"], "amount": 55, "status": "return in progress", "order_date": "2026-09-20", "delivery_date": "2026-09-23", "expected_refund": "2026-10-14", "destination": "San Diego"},
+ "NC-11020": {"customer": "Martha Ingram", "products": ["Aero 3"], "amount": 1150, "status": "delivered", "order_date": "2026-09-08", "delivery_date": "2026-09-11", "destination": "Portland"},
+ "NC-11033": {"customer": "Oscar Vance", "products": ["E-City 400", "U-Lock"], "amount": 1649, "status": "processing", "order_date": "2026-10-08", "expected_delivery": "2026-10-13", "destination": "Chicago"},
+ "NC-11107": {"customer": "Carol Dixon", "products": ["Kids 16", "Mini Helmet"], "amount": 214, "status": "shipped", "order_date": "2026-10-05", "carrier": "SwiftShip", "tracking": "SS-559034", "expected_delivery": "2026-10-09", "destination": "Portland"},
+ "NC-11215": {"customer": "Anna Price", "products": ["Rain Jacket"], "amount": 89, "status": "canceled", "order_date": "2026-10-01", "reason": "canceled by the customer", "refund": "issued on 2026-10-03", "destination": "Boston"},
+ "NC-11302": {"customer": "James Scott", "products": ["Mountain 29"], "amount": 749, "status": "delayed", "order_date": "2026-09-29", "expected_delivery": "2026-10-15", "reason": "out of stock in size L", "destination": "Austin"},
+ "NC-11340": {"customer": "Ellen Martin", "products": ["Winter Gloves"], "amount": 35, "status": "shipped", "order_date": "2026-10-07", "carrier": "Parcel Express", "tracking": "PE-77120", "expected_delivery": "2026-10-14", "destination": "Honolulu"}
+}

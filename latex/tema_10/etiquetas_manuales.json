@@ -1,0 +1,17 @@
+{
+ "sistema": "B. Recuperación del capítulo 6",
+ "criterio": "Correcta si contiene la información esencial de la referencia y no la contradice ni añade datos falsos relevantes; en las preguntas sin respuesta, si reconoce que no tiene la información, con la frase fija o sin ella.",
+ "correctas": [1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,0,0,1,0,1, 1,1,1,1,1,1,1,1,1,0, 0,0,1,0,1,1,1,0,0,1, 0,0,1,0,1,0,1,0,0,1],
+ "notas": {
+  "6": "Correcta: «financiación sin interés» (la comprobación automática buscaba «sin intereses»).",
+  "8": "Correcta: «entre 24 y 48 horas», compatible con el máximo de 48 horas.",
+  "14": "Correcta: reproduce la regla (solo mientras no haya salido), aunque empieza por un párrafo que no viene al caso.",
+  "17": "Correcta: reconoce que no tiene la información, sin la frase fija.",
+  "21": "Correcta: confirma la doble suspensión, sin el recorrido.",
+  "28": "Correcta con reservas: recomienda la E-Carga, pero empieza por una bicicleta infantil que no sirve.",
+  "32": "Correcta: las tasas de aduana corren a cargo del cliente.",
+  "37": "Incorrecta: da el correo correcto, pero inventa que hay que estar registrado.",
+  "40": "Incorrecta: dice que no se puede hacer nada aunque la batería está en garantía.",
+  "48": "Incorrecta: no dice la marca ni reconoce que no la sabe; responde otra cosa."
+ }
+}
